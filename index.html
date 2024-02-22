@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>5th ddco</h1>
-    <br><p>module Deci_Adder(
+    <pre><p>module Deci_Adder(
  input [3:0] A,
  input [3:0] B,
  output reg [3:0] Sum,
@@ -18,9 +18,9 @@
  Sum = A + B;
  Carry = (A + B) > 9 ? 1'b1 : 1'b0;
  end
-endmodule</p>
+endmodule</p></pre>
 <h1>6th ddco</h1>
-    <br><p>Multiplexer 2:1
+    <pre><p>Multiplexer 2:1
 module Multiplexer_2to1 (
  input data_in_0,
  input data_in_1,
@@ -71,9 +71,9 @@ default: out=1'b0;
 endcase
 end
 endmodule
-</p>
+</p></pre>
 <h1>p7th ddco</h1>
-    <br><p>1:4 DeMultiplexer
+    <pre><p>1:4 DeMultiplexer
 module Demultiplexer_1_to_4_case (output reg [3:0] Y, input [1:0] A, input din);
 always @(Y, A) 
 begin
@@ -148,7 +148,7 @@ module jk_ff ( input j, input k, input clk, output q);
 2'b10 : q <= 1; 
  2'b11 : q <= ~q; 
  endcase 
-endmodule </p>
+endmodule </p></pre>
 
 </body>
 </html>
