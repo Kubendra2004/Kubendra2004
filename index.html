@@ -3,120 +3,152 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample Landing Page</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f8f8;
-            color: #333;
-        }
-
-        header {
-            background-color: #4285f4;
-            color: #fff;
-            padding: 1em 0;
-            text-align: center;
-        }
-
-        section {
-            max-width: 800px;
-            margin: 2em auto;
-            padding: 1em;
-            background-color: #fff;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-        }
-
-        h1, h2 {
-            color: #3fdf87;
-        }
-
-        p {
-            line-height: 1.6;
-        }
-
-        a {
-            color: #4285f4;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .channels {
-            display: flex;
-            justify-content: space-around;
-            margin-top: 2em;
-        }
-
-        .channel {
-            text-align: center;
-            padding: 1em;
-            background-color: #4285f4;
-            color: #fff;
-            border-radius: 8px;
-            transition: background-color 0.3s ease;
-        }
-
-        .channel:hover {
-            background-color: #3367d6;
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+    <title>Study Hard</title>
 </head>
 <body>
-
-    <header>
-        <h1>Discover Awesome Content</h1>
-        <p>Welcome to our world of knowledge and entertainment!</p>
-    </header>
-
-    <section>
-        <h2>About Us</h2>
-        <p><div style="text-align:center">Hello Everyone,</div><br>
-                This is a sample website for my internship program I will implement more to this website in the near future.
-
-                <div style="text-align:center"><br>STAY TUNED!!</div>
-        </p>
-    </section>
-
-    <section class="channels">
-        <div class="channel">
-            <h2>Education Channel</h2>
-            <p>Explore fascinating educational content on our YouTube channel.</p>
-            <a href="https://www.youtube.com/@S.N.KUBENDRA" target="_blank">Visit Channel</a>
-        </div>
-        <div class="channel">
-            <h2>Gaming Channel</h2>
-            <p>Experience thrilling gaming adventures on our YouTube channel.</p>
-            <a href="https://www.youtube.com/@Kubendra2004" target="_blank">Visit Channel</a>
-        </div>
-    </section>
-
-    <section>
-        <h2>Contact Us</h2>
-        <p>Email: kubendra2004@gmail.com</p>
-        <br>
-        <br>
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Sample Landing Page. All rights reserved.</p>
-    </footer>
+    <h1>5th ddco</h1>
+    <p>module Deci_Adder(
+ input [3:0] A,
+ input [3:0] B,
+ output reg [3:0] Sum,
+ output reg Carry
+);
+ always @(A or B)
+ begin
+ Sum = A + B;
+ Carry = (A + B) > 9 ? 1'b1 : 1'b0;
+ end
+endmodule</p>
+<h1>6th ddco</h1>
+    <p>Multiplexer 2:1
+module Multiplexer_2to1 (
+ input data_in_0,
+ input data_in_1,
+ input select,
+ output reg data_out
+);
+always @(select or data_in_0 or data_in_1)
+begin
+ if (select == 1'b0)
+ data_out = data_in_0;
+ else
+ data_out = data_in_1;
+end
+endmodule
+Multiplexer 4 to 1
+module mux (in0, in1, in2, in3,sel, out);
+input in0,in1,in2,in3;
+input [1:0] sel;
+output reg out;
+always@(in0 or in1 or in2 or in3 or sel)
+begin
+if (sel== 2'b00)
+out = in0;
+else if (sel==2'b01)
+out =in1;
+else if (sel==2'b10)
+out =in2;
+else
+out = in3;
+end
+endmodule
+Multiplexer 8 to 1
+module m81(out, D0, D1, D2, D3, D4, D5, D6, D7, S0, S1, S2);
+input wire D0, D1, D2, D3, D4, D5, D6, D7, S0, S1, S2;
+output reg out;
+always@(*)
+begin
+case(S0 & S1 & S2)
+3'b000: out=D0;
+3'b001: out=D1;
+3'b010: out=D2;
+3'b011: out=D3;
+3'b100: out=D4;
+3'b101: out=D5;
+3'b110: out=D6;
+3'b111: out=D7;
+default: out=1'b0;
+endcase
+end
+endmodule
+</p>
+<h1>p7th ddco</h1>
+    <p>1:4 DeMultiplexer
+module Demultiplexer_1_to_4_case (output reg [3:0] Y, input [1:0] A, input din);
+always @(Y, A) 
+begin
+ case (A)
+ 2'b00 : begin Y[0] = din; Y[3:1] = 0; end
+ 2'b01 : begin Y[1] = din; Y[0] = 0; end
+ 2'b10 : begin Y[2] = din; Y[1:0] = 0; end
+ 2'b11 : begin Y[3] = din; Y[2:0] = 0; end
+ endcase 
+end
+endmodule
+1:8 DeMultiplexer
+module demux_1_8(y,s,a);
+ output reg [7:0]y;
+ input [2:0]s;
+ input a;
+always @(*)
+ begin 
+ y=0;
+ case(s)
+ 3'd0: y[0]=a;
+ 3'd1: y[1]=a;
+ 3'd2: y[2]=a;
+ 3'd3: y[3]=a;
+ 3'd4: y[4]=a;
+ 3'd5: y[5]=a;
+ 3'd6: y[6]=a;
+ 3'd7: y[7]=a;
+ endcase
+ end
+endmodule</p>
+<h1>8th ddco</h1>
+    <p>module SR_flipflop (
+ input clk, rst_n,
+ input s,r,
+ output reg q,
+ output q_bar
+ );
+ 
+ // always@(posedge clk or negedge rst_n) // for asynchronous reset
+ always@(posedge clk) begin // for synchronous reset
+ if(!rst_n) q <= 0;
+ else begin
+ case({s,r})
+ 2'b00: q <= q; // No change
+ 2'b01: q <= 1'b0; // reset
+ 2'b10: q <= 1'b1; // set
+ 2'b11: q <= 1'bx; // Invalid inputs
+ endcase
+ end
+ end
+ assign q_bar = ~q;
+endmodule
+Verilog code for D flipflop
+module dff(clk,d,q);
+input clk,d;
+output reg q;
+always @ (posedge clk)begin
+ q <= d;
+end
+ 
+endmodule
+Verilog code for JK flipflop
+module jk_ff ( input j, input k, input clk, output q); 
+ 
+ reg q; 
+ 
+ always @ (posedge clk) 
+ case ({j,k}) 
+ 2'b00 : q <= q; 
+ 2'b01 : q <= 0
+2'b10 : q <= 1; 
+ 2'b11 : q <= ~q; 
+ endcase 
+endmodule </p>
 
 </body>
 </html>
-
