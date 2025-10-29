@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Healthforesight+Project+Builder;Polyglot+%F0%9F%87%AA%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%B3%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AF%F0%9F%87%B5;Python+%7C+Java+%7C+MySQL+%7C+MongoDB+Pro;Always+learning+%F0%9F%A7%A1;Team+player+and+tech+collaborator;Calm%2C+peaceful+reader+%F0%9F%93%9A;Animated+GitHub+profile+incoming!" 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Healthforesight+Project+Builder;Python+%7C+Java+%7C+MySQL+%7C+MongoDB+Learner;Always+learning+%F0%9F%A7%A1;Team+player+and+tech+collaborator;Calm%2C+peaceful+reader+%F0%9F%93%9A" 
     alt="Kubendra's animated intro" />
 </p>
 
