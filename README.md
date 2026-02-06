@@ -56,24 +56,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kubendra2004&color=38bdae&style=flat-square&label=Profile+Views)
-
-<br/>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kubendra2004&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kubendra2004&theme=tokyonight&no-frame=true&margin-w=4)
-
-</div>
-
-
----
-
 > *"Collaboration fuels innovation. Calm minds build the future."*
 
 ---
