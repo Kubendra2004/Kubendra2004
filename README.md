@@ -59,10 +59,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kubendra2004&show_icons=true&theme=tokyonight" alt="Kubendra's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&theme=tokyonight" alt="Kubendra's Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubendra2004&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubendra2004&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 </div>
 
