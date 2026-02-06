@@ -53,17 +53,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kubendra2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kubendra's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kubendra2004&show_icons=true&theme=tokyonight" alt="Kubendra's Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubendra2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubendra2004&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 </div>
+
 
 ---
 
