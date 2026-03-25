@@ -1,7 +1,9 @@
-# Hi there, I'm S N Kubendra! 👋
+<h1 align="center">
+  Hi there, I'm S N Kubendra! 👋
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data-Driven+Developer;Python+%7C+Java+%7C+Databases;Lifelong+Learner+%26+Reader;Building+Healthforesight&font=Space+Grotesk&center=true&width=500&height=50&color=007EF3&vCenter=true" alt="Kubendra's animated intro" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data-Driven+Developer;Python+%7C+Java+%7C+Databases;Lifelong+Learner+%26+Reader;Built+Healthforesight&font=Space+Grotesk&center=true&width=500&height=50&color=007EF3&vCenter=true" alt="Kubendra's animated intro" />
 </div>
 
 <p align="center">
@@ -11,8 +13,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On:** Expanding my expertise in **Machine Learning** and building intelligent healthcare solutions like the **Healthforesight Project**.
-- 🌱 **Currently Learning:** Deep diving into the **Linux** ecosystem, open-source development, and advanced data architectures.
+- ✅ **Completed Work:** The **Healthforesight Project** – delivering ML-powered predictive solutions for healthcare.
+- 🔭 **Currently Working On:** Expanding my expertise in **Machine Learning**, integrating complex AI models, and building intelligent backend architectures.
+- 🌱 **Currently Learning:** Deep diving into the **Linux** ecosystem, open-source development, and advanced data pipelines.
 - 👯 **Collaboration:** I thrive in team environments and am always open to collaborating on innovative tech, open-source projects, and research.
 - 📚 **Beyond Tech:** You'll often find me with a book in hand. I am an avid reader who values mindfulness, continuous learning, and peaceful focus.
 - 💬 **Languages Spoken:** English, Kannada, Hindi, Telugu, and Tamil.
@@ -35,7 +38,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007EF3" alt="Kubendra's GitHub Stats" />
+  <img src="https://github.readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007EF3" alt="Kubendra's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubendra2004&theme=radical&hide_border=true&background=0D1117&ring=007EF3&fire=007EF3&currStreakNum=FFFFFF" alt="Kubendra's GitHub Streak" />
 </div>
 
@@ -55,6 +58,9 @@
   </a>
   <a href="https://www.linkedin.com/in/s-n-kubendra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Kubendra2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
