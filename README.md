@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubendra2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-*(Note: Depending on your exact GitHub username capitalization, you may need to adjust `user=Kubendra2004` if the stats cards don't load immediately)*
+
 
 ---
 
