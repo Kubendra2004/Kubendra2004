@@ -38,12 +38,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github.readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007EF3" alt="Kubendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&theme=radical&hide_border=true" alt="Kubendra's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubendra2004&theme=radical&hide_border=true&background=0D1117&ring=007EF3&fire=007EF3&currStreakNum=FFFFFF" alt="Kubendra's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubendra2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007EF3" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubendra2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 *(Note: Depending on your exact GitHub username capitalization, you may need to adjust `user=Kubendra2004` if the stats cards don't load immediately)*
