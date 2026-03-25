@@ -1,61 +1,69 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="60" /> Hey, I'm Kubendra!
-</h1>
+# Hi there, I'm S N Kubendra! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Healthforesight+Project+Builder;Python+%7C+Java+%7C+MySQL+%7C+MongoDB+Learner;Always+learning+%F0%9F%A7%A1;Team+player+and+tech+collaborator;Calm%2C+peaceful+reader+%F0%9F%93%9A" 
-    alt="Kubendra's animated intro" />
-</p>
-
----
-
-### 🔭 **Currently Working On**
-- 🚀 **Enhancing my skills** and exploring new technologies
-- ✅ **Completed:** Healthforesight Project – ML-powered solutions for healthcare
-
-### 🌱 **Learning:**
-- 🐧 Exploring the world of **Linux** and open-source tools
-
-### 💬 **Languages Spoken:**
-- 🇬🇧 English
-- 🇮🇳 Kannada, Hindi, Telugu, Tamil
-
-### 👯 **Collaboration:**
-- 🤝 Love teaming up on tech, open-source, and research
-- 📚 Always eager to learn new things
-
-<h3 align="center">⚡ Tech Stack Mastery</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data-Driven+Developer;Python+%7C+Java+%7C+Databases;Lifelong+Learner+%26+Reader;Building+Healthforesight&font=Space+Grotesk&center=true&width=500&height=50&color=007EF3&vCenter=true" alt="Kubendra's animated intro" />
 </div>
 
-### 📚 **Beyond Tech:**
-- Avid **reader**, drawn to stories and knowledge 📖
-- Calm, peaceful personality that values mindfulness
-
----
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1bGJsbHl2aTYzZnc0azJhanhxazJnN2c3ZXVubzAwY3YwZ3psOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5fMI9ftgQiGzoZoB9/giphy.gif" width="200" />
+  <em>A passionate software engineer and machine learning enthusiast who believes that calm minds build the future. I specialize in backend architecture, data-driven solutions, and collaborative tech innovation.</em>
 </p>
 
 ---
 
-<h3 align="center">📫 Contact Me</h3>
+### 🚀 About Me
+- 🔭 **Currently Working On:** Expanding my expertise in **Machine Learning** and building intelligent healthcare solutions like the **Healthforesight Project**.
+- 🌱 **Currently Learning:** Deep diving into the **Linux** ecosystem, open-source development, and advanced data architectures.
+- 👯 **Collaboration:** I thrive in team environments and am always open to collaborating on innovative tech, open-source projects, and research.
+- 📚 **Beyond Tech:** You'll often find me with a book in hand. I am an avid reader who values mindfulness, continuous learning, and peaceful focus.
+- 💬 **Languages Spoken:** English, Kannada, Hindi, Telugu, and Tamil.
+
+---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007EF3" alt="Kubendra's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubendra2004&theme=radical&hide_border=true&background=0D1117&ring=007EF3&fire=007EF3&currStreakNum=FFFFFF" alt="Kubendra's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubendra2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007EF3" alt="Top Languages" />
+</div>
+
+*(Note: Depending on your exact GitHub username capitalization, you may need to adjust `user=Kubendra2004` if the stats cards don't load immediately)*
+
+---
+
+### 📫 Connect with Me
+
 <div align="center">
   <a href="mailto:kubendra2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/s-n-kubendra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
----
+<br/>
 
-> *"Collaboration fuels innovation. Calm minds build the future."*
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1bGJsbHl2aTYzZnc0azJhanhxazJnN2c3ZXVubzAwY3YwZ3psOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5fMI9ftgQiGzoZoB9/giphy.gif" width="150" alt="Calm Animation" />
+</p>
 
----
+<p align="center">
+  <em>"Collaboration fuels innovation. Calm minds build the future."</em>
+</p>
