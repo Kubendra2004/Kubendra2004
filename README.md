@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
 I build **data-driven backend systems** and explore **machine learning applications** that solve practical problems.  
 I focus on clean architecture, readable code, and impactful products.
@@ -33,7 +33,6 @@ I focus on clean architecture, readable code, and impactful products.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-1D7A46?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
