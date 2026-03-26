@@ -4,47 +4,67 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kubendra2004@gmail.com"><img src="https://img.shields.io/badge/Email-kubendra2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/s-n-kubendra"><img src="https://img.shields.io/badge/LinkedIn-s--n--kubendra-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Kubendra2004"><img src="https://img.shields.io/badge/GitHub-Kubendra2004-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kubendra2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kubendra2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/s-n-kubendra">
+    <img src="https://img.shields.io/badge/LinkedIn-s--n--kubendra-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Kubendra2004">
+    <img src="https://img.shields.io/badge/GitHub-Kubendra2004-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center">
-  <em>Calm minds build reliable systems.</em>
-</p>
+<p align="center"><em>Calm minds build reliable systems.</em></p>
 
 ---
 
 ## 👨‍💻 Summary
 
-I build **data-driven backend systems** and explore **machine learning applications** that solve practical problems.  
-I focus on clean architecture, readable code, and impactful products.
+I build **data-driven backend systems** and practical **machine learning solutions**.  
+My focus is on **clean architecture**, **readable code**, and **real-world impact**.
 
 - 🧠 Built: **Healthforesight** — ML-powered healthcare prediction system  
-- 🔬 Current Focus: ML engineering, intelligent APIs, and scalable backend design  
-- 🐧 Learning: Linux internals, OSS contribution workflows, and production-grade pipelines  
-- 🤝 Open to: Collaboration in AI, backend engineering, and research-driven projects
+- 🔬 Focus: ML engineering, intelligent APIs, scalable backend design  
+- 🐧 Learning: Linux internals, open-source workflows, production pipelines  
+- 🤝 Open to: AI, backend, and research collaborations
 
 ---
 
 ## 🛠 Core Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+
+**Languages & Backend**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<br/>
+
+**Data & Infrastructure**  
+<img src="https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## 🚧 Currently Building
+
+- New software and machine learning projects with real-world use cases
+- **Backend API projects using Python + FastAPI**
+- Reusable API templates with authentication, logging, testing, and CI/CD
+- Better structured backend architecture (service, repository, and data layers)
 
 ---
 
 ## 📌 Engineering Principles
 
-- Build for **clarity first**, then optimize
-- Prefer **modular architecture** and testable components
-- Use **data to drive decisions**
-- Write code that future collaborators can maintain easily
+- Clarity first, optimize second  
+- Modular and testable architecture  
+- Data-informed decision making  
+- Build for maintainability and collaboration
 
 ---
 
@@ -63,11 +83,9 @@ I focus on clean architecture, readable code, and impactful products.
 
 ## 🌍 Beyond Code
 
-I’m an avid reader and lifelong learner.  
-Languages: **English, Kannada, Hindi, Telugu, Tamil**.
+Avid reader, lifelong learner, and believer in focused, calm execution.  
+**Languages:** English, Kannada, Hindi, Telugu, Tamil.
 
 ---
 
-<p align="center">
-  <em>“Collaboration fuels innovation. Calm minds build the future.”</em>
-</p>
+<p align="center"><em>“Collaboration fuels innovation. Calm minds build the future.”</em></p>
