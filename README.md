@@ -72,25 +72,24 @@ My focus is on **clean architecture**, **readable code**, and **real-world impac
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kubendra2004&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00A3FF&text_color=9BB6CC&icon_color=00A3FF&cache_seconds=86400"
-    alt="GitHub Stats"
+    src="https://streak-stats.demolab.com?user=Kubendra2004&hide_border=true&background=00000000&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF&sideLabels=9BB6CC&currStreakNum=00A3FF&sideNums=9BB6CC&dates=6E8AA0"
+    alt="GitHub Streak"
     height="165"
   />
   <img
-    src="https://streak-stats.demolab.com?user=Kubendra2004&hide_border=true&background=00000000&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF&sideLabels=9BB6CC&currStreakNum=00A3FF&sideNums=9BB6CC&dates=6E8AA0"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kubendra2004&theme=github_dark"
+    alt="GitHub Stats"
     height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubendra2004&layout=compact&hide_border=true&bg_color=00000000&title_color=00A3FF&text_color=9BB6CC&langs_count=8&cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kubendra2004&theme=github_dark"
     alt="Top Languages"
-    height="160"
+    height="165"
   />
 </p>
-
 ---
 
 ## 🌍 Beyond Code
