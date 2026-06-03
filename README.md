@@ -72,11 +72,6 @@ My focus is on **clean architecture**, **readable code**, and **real-world impac
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Kubendra2004&hide_border=true&background=00000000&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF&sideLabels=9BB6CC&currStreakNum=00A3FF&sideNums=9BB6CC&dates=6E8AA0"
-    alt="GitHub Streak"
-    height="165"
-  />
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kubendra2004&theme=github_dark"
     alt="GitHub Stats"
     height="165"
