@@ -1,6 +1,7 @@
 <h1 align="center">S N Kubendra</h1>
+
 <p align="center">
-  <strong>Software Engineer • Machine Learning Enthusiast • Backend Builder</strong>
+  <strong>Software Engineer • Backend Developer • Python & FastAPI</strong>
 </p>
 
 <p align="center">
@@ -15,56 +16,118 @@
   </a>
 </p>
 
-<p align="center"><em>Calm minds build reliable systems.</em></p>
+<p align="center">
+  Building practical backend systems, APIs, and AI-powered applications.
+</p>
 
 ---
 
-## 👨‍💻 Summary
+## 👨‍💻 About Me
 
-I build **data-driven backend systems** and practical **machine learning solutions**.  
-My focus is on **clean architecture**, **readable code**, and **real-world impact**.
+I'm a Computer Science Engineering graduate interested in **software engineering and backend development**.
 
-- 🧠 Built: **Healthforesight** — ML-powered healthcare prediction system
-- 🔬 Focus: ML engineering, intelligent APIs, scalable backend design
-- 🐧 Learning: Linux internals, open-source workflows, production pipelines
-- 🤝 Open to: AI, backend, and research collaborations
+I enjoy building practical applications involving **backend APIs, databases, AI/ML, automation, and real-world workflows**. My primary development focus is Python and FastAPI, with an interest in building reliable APIs and understanding how complete software systems work.
+
+I prefer working on projects where I can take a problem from **API design and data handling to implementation, integration, and deployment**.
 
 ---
 
-## 🛠 Core Stack
+## 🚀 Featured Projects
 
-<div align="center">
+### 🏥 HealthForesight
 
-**Languages & Backend**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+**AI-powered healthcare management and predictive analytics platform.**
 
-<br/>
+A full-stack healthcare system connecting patient, doctor, front-desk, and administrative workflows with predictive analytics and AI-powered functionality.
 
-**Data & Infrastructure**  
-<img src="https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**Highlights:**
 
-</div>
+* FastAPI REST APIs with authentication and role-based access
+* Heart disease and diabetes risk prediction
+* Hospital resource forecasting using Prophet
+* ML explainability using SHAP
+* Gemini-powered AI assistant
+* ChromaDB-based retrieval and RAG functionality
+* MySQL and MongoDB data architecture
+* WebSocket-based real-time communication
+* React-based frontend
 
----
+**Technologies:** Python • FastAPI • React • MySQL • MongoDB • ChromaDB • Scikit-learn • Prophet • SHAP • Gemini
 
-## 🚧 Currently Building
-
-- New software and machine learning projects with real-world use cases
-- **Backend API projects using Python + FastAPI**
-- Reusable API templates with authentication, logging, testing, and CI/CD
-- Better structured backend architecture (service, repository, and data layers)
+🔗 [View Repository](https://github.com/Kubendra2004/HealthForesight)
 
 ---
 
-## 📌 Engineering Principles
+### 🌊 Sahyadri-Siri
 
-- Clarity first, optimize second
-- Modular and testable architecture
-- Data-informed decision making
-- Build for maintainability and collaboration
+**AI-powered water quality intelligence platform for environmental monitoring and community reporting.**
+
+A software platform combining water-quality analysis, environmental data, AI-generated advisories, image analysis, and real-time community reporting.
+
+**Highlights:**
+
+* FastAPI APIs for reports, weather, authentication, alerts, and image analysis
+* Water Quality Index (WQI) calculation
+* Python-based image analysis for turbidity and contamination estimation
+* Gemini-powered AI advisories
+* Firebase Authentication, Firestore, Storage, and FCM
+* Redis/Upstash caching and rate limiting
+* Weather correlation using Open-Meteo
+* Offline data support and background synchronization
+* English and Kannada support
+
+**Technologies:** Python • FastAPI • Firebase • Redis • Gemini • NumPy • Pillow • Scikit-learn • REST APIs
+
+🔗 [View Repository](https://github.com/Kubendra2004/Sahyadri-Siri)
+
+---
+
+### 🤖 Student Bot
+
+**Python-based browser chatbot for student information management.**
+
+A lightweight chatbot that runs Python directly in the browser using PyScript/Pyodide and integrates with Google Sheets through the SheetDB REST API.
+
+**Highlights:**
+
+* Python chatbot logic running in the browser
+* Student search, retrieval, update, and calculation commands
+* SheetDB REST API integration
+* Google Sheets as a lightweight data backend
+* Local and hosted data modes
+* GitHub Pages deployment
+
+**Technologies:** Python • PyScript • Pyodide • SheetDB • Google Sheets • HTML • CSS
+
+🔗 [View Repository](https://github.com/Kubendra2004/Student-Chatbot)
+
+---
+
+## 🔧 What I Work With
+
+**Backend & APIs**
+Python • FastAPI • REST APIs • SQL • C# • .NET MVC
+
+**Databases & Infrastructure**
+MySQL • PostgreSQL • MongoDB • Redis • Firebase • Git • Docker
+
+**AI & Data**
+Scikit-learn • Pandas • NumPy • SHAP • Prophet • Generative AI
+
+**Frontend**
+React • JavaScript • HTML • CSS
+
+---
+
+## 📚 What I'm Learning
+
+* Backend architecture and API design
+* SQL and database design
+* Data structures and algorithms
+* Software engineering fundamentals
+* Testing and debugging
+* Production code and application maintenance
+* Scalable backend development
 
 ---
 
@@ -76,9 +139,6 @@ My focus is on **clean architecture**, **readable code**, and **real-world impac
     alt="GitHub Stats"
     height="165"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kubendra2004&theme=github_dark"
     alt="Top Languages"
@@ -88,11 +148,16 @@ My focus is on **clean architecture**, **readable code**, and **real-world impac
 
 ---
 
-## 🌍 Beyond Code
+## Open to Opportunities
 
-Avid reader, lifelong learner, and believer in focused, calm execution.  
-**Languages:** English, Kannada, Hindi, Telugu, Tamil.
+Interested in opportunities related to:
+
+**Software Engineering • Backend Development • Python Development • SDE • API Development**
+
+Especially interested in building backend services, APIs, database-driven applications, and practical software systems.
 
 ---
 
-<p align="center"><em>“Collaboration fuels innovation. Calm minds build the future.”</em></p>
+<p align="center">
+  <em>Build clearly. Learn continuously. Ship useful software.</em>
+</p>
